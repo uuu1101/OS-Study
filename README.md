@@ -10,3 +10,8 @@
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 |[Processes](https://pages.cs.wisc.edu/~remzi/OSTEP/cpu-intro.pdf)| 미제출 | [제출](https://github.com/dev-summer/OS-Study/blob/summercat/Virtualization/4_Processes.md) | 미제출 | 미제출 | 미제출 | 미제출 |
 |[Process API](https://pages.cs.wisc.edu/~remzi/OSTEP/cpu-api.pdf)| 미제출 | [제출](https://github.com/dev-summer/OS-Study/blob/summercat/Virtualization/5_Proceess_API.md) | 미제출 | 미제출 | 미제출 | 미제출 |
+|[Direct Execution](https://pages.cs.wisc.edu/~remzi/OSTEP/cpu-mechanisms.pdf)| 미제출 | [제출](https://github.com/dev-summer/OS-Study/blob/summercat/Virtualization/6_Direct_Execution.md) | 미제출 | 미제출 | 미제출 | 미제출 |
+|[CPU Scheduling](https://pages.cs.wisc.edu/~remzi/OSTEP/cpu-sched.pdf)| 미제출 | [제출](https://github.com/dev-summer/OS-Study/blob/summercat/Virtualization/7_CPU_Scheduling.md) | 미제출 | 미제출 | 미제출 | 미제출 |
+|[Multi-level Feedback](https://pages.cs.wisc.edu/~remzi/OSTEP/cpu-sched-mlfq.pdf)| 미제출 | 미제출 | 미제출 | 미제출 | 미제출 | 미제출 |
+|[Lottery Scheduling](https://pages.cs.wisc.edu/~remzi/OSTEP/cpu-sched-lottery.pdf)| 미제출 | 미제출 | 미제출 | 미제출 | 미제출 | 미제출 |
+|[Multi-CPU Scheduling](https://pages.cs.wisc.edu/~remzi/OSTEP/cpu-sched-multi.pdf)| 미제출 | 미제출 | 미제출 | 미제출 | 미제출 | 미제출 |
